@@ -22,7 +22,9 @@ body {
     background-size: cover;
     background-position: center;
     font-family: sans-serif;
-    width: auto;
+    width: 100%;
+    heigth:100%;
+/*     height */
 }
 
 /* Inicio do header/navbar */
@@ -33,7 +35,7 @@ body {
 
 .header {
     background-color: var(--color-assado);
-    width: 100%;
+    width: auto;
     height: 80px;
     position: fixed;
     top: 0;
